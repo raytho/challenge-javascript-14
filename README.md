@@ -29,6 +29,8 @@ Un diamante de tamaño 5.
 
 ```
 
+Este diamante anterior es una cadena de caracteres así: `" *\n ***\n*****\n ***\n *\n"`
+
 Un diamante de tamaño 15.
 
 ```
@@ -50,7 +52,6 @@ Un diamante de tamaño 15.
 
 ```
 
-Este diamante anterior es una cadena de caracteres así: `" *\n ***\n*****\n ***\n *\n"`
 
 ### Instalación
 ```
