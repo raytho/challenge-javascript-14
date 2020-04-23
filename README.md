@@ -2,7 +2,7 @@
 
 A los mentores de Platzi Master le gusta los diamantes así que debes generar un código que genere un diamante con solo `*`.
 
-Debes generar este diamante con `*`, espacios y saltos de línea con `\n`. El diamente debe recibir tamaños impares `1,3,5...` si se enviar un par debe retornar `null`, ademas de ser un numero positivo.
+Debes generar este diamante con `*`, espacios y saltos de línea con `\n`. El diamante debe recibir tamaños impares `1,3,5...` si se envia un número par debe retornar `null`, ademas debe ser un número positivo.
 
 
 # Ejemplo
